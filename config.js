@@ -3,6 +3,6 @@
 window.PP_CONFIG = {
   kelas: ['9E','9G'],      // murid memilih kelasnya sendiri
   jumlahKelompok: 6,       // jumlah tombol kelompok untuk mode tim
-  firebaseUrl: '',         // isi dengan alamat Firebase Realtime Database (tanpa garis miring di akhir)
+  firebaseUrl: '',         // https://miu-s-project-fbaa2-default-rtdb.asia-southeast1.firebasedatabase.app/
   sheetUrl: ''             // isi dengan alamat Web App Apps Script untuk Google Sheet
 };
